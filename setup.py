@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='ionmodecalc',
     packages=find_packages(include = ['ionmodecalc']),
-    version='0.9.1',
+    version='0.9.3',
     description='Python library for calculation of motional mode spectrum of ion strings',
     author='Mikhail Popov',
     license='MIT',
